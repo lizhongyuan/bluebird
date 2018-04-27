@@ -15,5 +15,5 @@
     "url": "http://github.com/petkaantonov/"
   },
   "readmeFilename": "README.md",
-  "main": "./js/release/bluebird.js",
+  "main": "./js/release/bluebird.js"
 }
